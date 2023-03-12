@@ -3,6 +3,6 @@
     "comments": true
   },
   "rules": {
-    "no-todo": true
+    "aws-service-name": true
   }
 }

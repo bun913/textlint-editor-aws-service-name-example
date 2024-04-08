@@ -7,11 +7,12 @@
     "website": "textlint-website-generator --outputDir dist"
   },
   "devDependencies": {
-    "@textlint/website-generator": "^0.12.1"
+    "@textlint/website-generator": "^0.12.1",
+    "husky": "^9.0.11"
   },
   "dependencies": {
     "textlint": "^12.1.1",
     "textlint-filter-rule-comments": "^1.2.2",
-    "textlint-rule-aws-service-name": "^1.1.2"
+    "textlint-rule-aws-service-name": "^1.8.0"
   }
 }

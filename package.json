@@ -1,18 +1,17 @@
 {
   "private": true,
-  "name": "@textlint/editor-script-template",
-  "version": "1.0.0",
-  "description": "@textlint/editor script template",
+  "name": "@textlint/textlint-editor-rule-aws-service-name",
+  "version": "1.1.0",
+  "description": "@textlint/edito script template",
+  "homepage": "https://github.com/bun913/textlint-editor-aws-service-name-example",
   "scripts": {
     "website": "textlint-website-generator --outputDir dist"
   },
   "devDependencies": {
-    "@textlint/website-generator": "^0.12.1",
-    "husky": "^9.0.11"
+    "@textlint/website-generator": "^0.16.1"
   },
   "dependencies": {
-    "textlint": "^12.1.1",
-    "textlint-filter-rule-comments": "^1.2.2",
+    "textlint": "^13.3.1",
     "textlint-rule-aws-service-name": "^1.8.0"
   }
 }

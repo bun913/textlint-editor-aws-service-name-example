@@ -1,7 +1,4 @@
 {
-  "filters": {
-    "comments": true
-  },
   "rules": {
     "aws-service-name": true
   }

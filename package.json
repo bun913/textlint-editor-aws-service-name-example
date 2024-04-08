@@ -1,8 +1,9 @@
 {
   "private": true,
-  "name": "@textlint/editor-script-template",
-  "version": "1.0.0",
-  "description": "@textlint/editor script template",
+  "name": "@textlint/textlint-editor-rule-aws-service-name",
+  "version": "1.1.0",
+  "description": "@textlint/edito script template",
+  "homepage": "https://github.com/bun913/textlint-editor-aws-service-name-example",
   "scripts": {
     "website": "textlint-website-generator --outputDir dist"
   },
